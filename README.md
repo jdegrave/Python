@@ -4,7 +4,7 @@ This repository contains Python code from a Python course taken Winter Semester 
 - Final Project
 
 A bit more about the Final Project: 
-## This is my final project for an introductory Python class using Python 3.5.1. 
+This is my final project for an introductory Python class using Python 3.5.1. 
 
 ## Purpose
 This project fetches workspace, project information, and client information from various Toggl APIs. It is a very basic/crude 
