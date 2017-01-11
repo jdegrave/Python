@@ -1,0 +1,10 @@
+cid,id,name,actual_hours,estimated_hours,billable,active
+18642484,15726464,DiamondPoint Framework,16,0,True,True
+18642478,15726458,Cranium 360 Portal,70,0,True,True
+18642480,15726460,Analytics Dashboard,217,650,True,True
+18642481,15726461,Administrative,112,0,True,True
+18642482,15726462,Seeds that Feed,20,0,True,True
+18642477,15726457,Platform Development,562,0,True,True
+18642479,15726459,Gray-Robinson - Various,104,0,True,True
+18642483,15726463,InfoMasters Infrastructure,52,0,True,True
+Total Active Projects,8
