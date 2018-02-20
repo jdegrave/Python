@@ -3,6 +3,8 @@ This repository contains Python code from a Python course taken Winter Semester 
 - Homework
 - Final Project
 
+
+# Final Project
 A bit more about the Final Project: 
 This is my final project for an introductory Python class using Python 3.5.1. 
 
