@@ -1,7 +1,7 @@
 # Python
 This repository contains Python code from a Python course taken Winter Semester 2016:
 - Homework
-- Final Project: [Toggle Api](https://github.com/jdegrave/Python/tree/master/TogglAPI)
+- Final Project: [Toggle API](https://github.com/jdegrave/Python/tree/master/TogglAPI)
 
 
 # Final Project
@@ -18,23 +18,3 @@ project management application.
 3. Eventually this will become a basic project management web app.
 4. In future releases, additional child classes will be created from the TogglWorkSpace class 
 
-## Code
-These files are active:
-
-
-[TogglMain.py](https://github.com/jdegrave/Python/tree/master/TogglAPI)
-
-
-[TogglWorkspace.py](https://github.com/jdegrave/Python/tree/master/TogglAPIy)
-
-This file is in progress:
-
-
-[ToggleAPIReports.py](https://github.com/jdegrave/Python/tree/master/TogglAPI)
-
-## Example Output
-Four csv files can be created from the TogglWorkspace class:
-* [Workspace Report](https://github.com/jdegrave/Python/tree/master/TogglAPI): contains essential information about the Toggl workspace
-* [Projects Report](https://github.com/jdegrave/Python/tree/master/TogglAPI): contains essential information for each project in the workspace, including the total number of active projects
-* [Client Report](https://github.com/jdegrave/Python/tree/master/TogglAPI): contains basic client information for each client in the workspace
-* [Summary Report](https://github.com/jdegrave/Python/tree/master/TogglAPI): combines essential information from the other csv files into one csv file.
