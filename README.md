@@ -1,7 +1,7 @@
 # Python
 This repository contains Python code from a Python course taken Winter Semester 2016:
 - Homework
-  - [Python Introduction](https://github.com/jdegrave/Python/tree/master/PythonIntroduction) Exercises that came with Python. The HTML files provide an explanation for each exercise.
+  - [Python Introduction](https://github.com/jdegrave/Python/tree/master/PythonIntroduction) - Exercises that came with Python. The HTML files provide an explanation for each exercise.
   -- 
 - Final Project: [Toggle API](https://github.com/jdegrave/Python/tree/master/TogglAPI)
 
