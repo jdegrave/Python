@@ -16,15 +16,14 @@ project management application.
 These files are active:
 
 
-[TogglMain.py](https://github.com/jdegrave/Python/tree/master/TogglAPI)
+[TogglMain.py](https://github.com/jdegrave/Python/blob/master/Capstone_Project_TogglAPI/TogglMain.py)
 
 
-[TogglWorkspace.py](https://github.com/jdegrave/Python/tree/master/TogglAPIy)
-
+[TogglWorkspace.py](https://github.com/jdegrave/Python/blob/master/Capstone_Project_TogglAPI/TogglWorkSpace.py)
 This file is in progress:
 
 
-[ToggleAPIReports.py](https://github.com/jdegrave/Python/tree/master/TogglAPI)
+[ToggleAPIReports.py](https://github.com/jdegrave/Python/blob/master/Capstone_Project_TogglAPI/ToggleAPIReports.py)
 
 ## Example Output
 Four csv files can be created from the TogglWorkspace class:
