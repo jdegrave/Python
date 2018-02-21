@@ -2,19 +2,19 @@
 This repository contains Python code from a Python course taken Winter Semester 2016 and my Capstone Project:
 ## Homework
   - [Python Introduction](https://github.com/jdegrave/Python/tree/master/PythonIntroduction) - Exercises that came with PyCharm. The HTML files provide an explanation for each exercise.
-  - [Chapter 01 Exercises](https://github.com/jdegrave/Python/tree/master/Chap-01-Exercises) - 
-  - [Chapter 02 Exercises](https://github.com/jdegrave/Python/tree/master/Chap-02-Exercises) - 
-  - [Chapter 03 Exercises](https://github.com/jdegrave/Python/tree/master/Chap-03-Exercises) - 
-  - [Chapter 04 Exercises](https://github.com/jdegrave/Python/tree/master/Chap-04-Exercises) - 
-  - [Chapter 05 Exercises](https://github.com/jdegrave/Python/tree/master/Chap-05-Exercises) -  
-  - [Chapter 06 Exercises](https://github.com/jdegrave/Python/tree/master/Chap-06-Exercises) - 
-  - [Chapter 07 Exercises](https://github.com/jdegrave/Python/tree/master/Chap-07-Exercises) - 
-  - [Chapter 08 Exercises](https://github.com/jdegrave/Python/tree/master/Chap-08-ConsoleExercises) - 
-  - [Chapter 10 Exercises](https://github.com/jdegrave/Python/tree/master/Chap-10-Exercises) - 
-  - [Chapter 11 Exercises](https://github.com/jdegrave/Python/tree/master/Chap-11-Exercises) - 
-  - [Chapter 12 Exercises](https://github.com/jdegrave/Python/tree/master/Chap-12-Exercises) - 
-  - [Chapter 13 Exercises](https://github.com/jdegrave/Python/tree/master/Chap-13-Exercises) -  
-  - [Chapter 14 Exercises](https://github.com/jdegrave/Python/tree/master/Chap-14-Exercises) -   
+  - [Chapter 01 Exercises](https://github.com/jdegrave/Python/tree/master/Chap-01-Exercises) - Print statements, simple arithmetic
+  - [Chapter 02 Exercises](https://github.com/jdegrave/Python/tree/master/Chap-02-Exercises) - Variables, operators, numeric data types, assignments (multiple and single), reading input from console
+  - [Chapter 03 Exercises](https://github.com/jdegrave/Python/tree/master/Chap-03-Exercises) - Math modules, strings, objects
+  - [Chapter 04 Exercises](https://github.com/jdegrave/Python/tree/master/Chap-04-Exercises) - Booleans, random numbers, conditionals, logical operators, operator precedence
+  - [Chapter 05 Exercises](https://github.com/jdegrave/Python/tree/master/Chap-05-Exercises) - Loops (for, while, break, continue)
+  - [Chapter 06 Exercises](https://github.com/jdegrave/Python/tree/master/Chap-06-Exercises) - Functions, scope
+  - [Chapter 07 Exercises](https://github.com/jdegrave/Python/tree/master/Chap-07-Exercises) - Classes, OOP, OOD
+  - [Chapter 08 Exercises](https://github.com/jdegrave/Python/tree/master/Chap-08-ConsoleExercises) - String methods
+  - [Chapter 10 Exercises](https://github.com/jdegrave/Python/tree/master/Chap-10-Exercises) - Lists
+  - [Chapter 11 Exercises](https://github.com/jdegrave/Python/tree/master/Chap-11-Exercises) - 2-D Lists
+  - [Chapter 12 Exercises](https://github.com/jdegrave/Python/tree/master/Chap-12-Exercises) - Inheritance & Polymorphism
+  - [Chapter 13 Exercises](https://github.com/jdegrave/Python/tree/master/Chap-13-Exercises) - File handling
+  - [Chapter 14 Exercises](https://github.com/jdegrave/Python/tree/master/Chap-14-Exercises) - Tuples, Sets, Dictionaries 
   
   - [Hello World](https://github.com/jdegrave/Python/tree/master/HelloWorld) - String multiplication
   - [Hong Saw / Fizz Buzz](https://github.com/jdegrave/Python/tree/master/HongSaw) - String multiplication
