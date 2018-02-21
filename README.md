@@ -3,7 +3,7 @@ This repository contains Python code from a Python course taken Winter Semester 
 ## Homework
   - [Python Introduction](https://github.com/jdegrave/Python/tree/master/PythonIntroduction) - Exercises that came with PyCharm. The HTML files provide an explanation for each exercise. These lessons had an automated testing to check results.
   -
-## Final / Capstone Project: [Toggle API](https://github.com/jdegrave/Python/tree/master/TogglAPI)
+## Final / Capstone Project: [Toggle API](https://github.com/jdegrave/Python/tree/master/Capstone_Project_TogglAPI)
 A bit more about the Final Project: 
 This is my final project for an introductory Python class using Python 3.5.1. 
 
