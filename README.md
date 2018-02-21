@@ -9,7 +9,7 @@ This repository contains Python code from a Python course taken Winter Semester 
   
 ## Capstone Project: 
 [Toggle API](https://github.com/jdegrave/Python/tree/master/Capstone_Project_TogglAPI)
-A bit more about the Final Project: 
+
 This is my final project for an introductory Python class using Python 3.5.1. 
 
 ### Purpose
@@ -17,7 +17,7 @@ This project fetches workspace, project information, and client information from
 project management application. 
 
 ### Disclaimers 
-1. APIs were not covered in class. I did my best to figure it out. 
+1. APIs were not covered in class; researched on my own. 
 2. There is a lot more functionality to add - for example, user information. 
 3. Eventually this will become a basic project management web app.
 4. In future releases, additional child classes will be created from the TogglWorkSpace class 
