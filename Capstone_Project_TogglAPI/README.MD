@@ -27,7 +27,7 @@ This file is in progress:
 
 ## Example Output
 Four csv files can be created from the TogglWorkspace class:
-* [Workspace Report](https://github.com/jdegrave/Python/tree/master/TogglAPI): contains essential information about the Toggl workspace
-* [Projects Report](https://github.com/jdegrave/Python/tree/master/TogglAPI): contains essential information for each project in the workspace, including the total number of active projects
-* [Client Report](https://github.com/jdegrave/Python/tree/master/TogglAPI): contains basic client information for each client in the workspace
-* [Summary Report](https://github.com/jdegrave/Python/tree/master/TogglAPI): combines essential information from the other csv files into one csv file.
+* [Workspace Report](https://github.com/jdegrave/Python/blob/master/Capstone_Project_TogglAPI/workspace_report): contains essential information about the Toggl workspace
+* [Projects Report](https://github.com/jdegrave/Python/blob/master/Capstone_Project_TogglAPI/projects_report): contains essential information for each project in the workspace, including the total number of active projects
+* [Client Report]https://github.com/jdegrave/Python/blob/master/Capstone_Project_TogglAPI/client_report): contains basic client information for each client in the workspace
+* [Summary Report](https://github.com/jdegrave/Python/blob/master/Capstone_Project_TogglAPI/summary_report): combines essential information from the other csv files into one csv file.
