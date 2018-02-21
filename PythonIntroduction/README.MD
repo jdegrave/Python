@@ -8,10 +8,10 @@ These are xercises that came with PyCharm.
 ## Lesson 01 - Hello World!
 - [Task 1](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-01/task1) - Hello World
 - [Task 2](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-01/task2) - Comments
-## Lesson 02
+## Lesson 02 - Numbers, Type Conversion Basics, Assignment, Mathematical, and Comparison Operators
 - [Task 1](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-02/task1) - Variables Introduction
 - [Task 2](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-02/task2) - Undefined Variables, Naming
-- [Task 3](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-02/ta-02sk3) - Numbers: Integers and Floats
+- [Task 3](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-02/task3) - Numbers: Integers and Floats
 - [Task 4](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-02/task4) - Converting Numbers
 - [Task 5](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-02/task5) - Mathematical Operators
 - [Task 6](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-02/task6) - Augmented Assignment
