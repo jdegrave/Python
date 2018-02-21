@@ -1,6 +1,6 @@
 # Python Introduction
 
-These are xercises that came with PyCharm. 
+These are exercises that came with PyCharm that I was required to complete by the end of the semester. 
 - Each lesson is divided into tasks. Task descriptions are included here for quick reference.
 - Each task has an HTML file to provide an explanation for each exercise. 
 - Each task had an automated testing to check results; therefore solutions had to match the programmed answer.
