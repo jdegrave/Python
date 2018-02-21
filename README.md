@@ -2,8 +2,13 @@
 This repository contains Python code from a Python course taken Winter Semester 2016 and my Capstone Project:
 ## Homework
   - [Python Introduction](https://github.com/jdegrave/Python/tree/master/PythonIntroduction) - Exercises that came with PyCharm. The HTML files provide an explanation for each exercise.
-  -
-## Capstone Project: [Toggle API](https://github.com/jdegrave/Python/tree/master/Capstone_Project_TogglAPI)
+  
+  - [Hello World](https://github.com/jdegrave/Python/tree/master/HelloWorld) - String multiplication
+  - [Hong Saw / Fix Buzz](https://github.com/jdegrave/Python/tree/master/HongSaw) - String multiplication
+  - [Olympic Rings](https://github.com/jdegrave/Python/tree/master/OlympicRings) - Fun with turtle
+  
+## Capstone Project: 
+[Toggle API](https://github.com/jdegrave/Python/tree/master/Capstone_Project_TogglAPI)
 A bit more about the Final Project: 
 This is my final project for an introductory Python class using Python 3.5.1. 
 
