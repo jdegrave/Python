@@ -62,5 +62,6 @@ These are exercises that came with PyCharm that I was required to complete by th
 - [Task 01](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-09/task1) - Modules Intro
 - [Task 02](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-09/task2) - Built-in Python Modules
 - [Task 03](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-09/task3) - Importing Modules
-## Lesson 10 - 
-
+## Lesson 10 - Files: Opening, Reading, Writing, Closing
+- [Task 01](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-10/task1) - Opening, Reading, and Writing Files
+- [Task 02](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-10/task2) - Appending Files
