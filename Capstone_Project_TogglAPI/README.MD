@@ -20,9 +20,8 @@ These files are active:
 
 
 [TogglWorkspace.py](https://github.com/jdegrave/Python/blob/master/Capstone_Project_TogglAPI/TogglWorkSpace.py)
+
 This file is in progress:
-
-
 [ToggleAPIReports.py](https://github.com/jdegrave/Python/blob/master/Capstone_Project_TogglAPI/ToggleAPIReports.py)
 
 ## Example Output
