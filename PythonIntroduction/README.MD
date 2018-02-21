@@ -2,8 +2,8 @@
 
 These are xercises that came with PyCharm. 
 - Each lesson is divided into tasks. Task descriptions are included here for quick reference.
-- The HTML files provide an explanation for each exercise. 
-- These lessons had an automated testing to check results.
+- Each task has an HTML file to provide an explanation for each exercise. 
+- Each task had an automated testing to check results; therefore solutions had to match the programmed answer.
 
 ## Lesson 01 - Hello World!
 - [Task 1](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-01/task1) - Hello World
