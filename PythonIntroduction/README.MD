@@ -18,16 +18,16 @@ These are xercises that came with PyCharm.
 - [Task 7](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-02/task7) - Boolean, Equality Operator
 - [Task 8](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-02/task8) - Comparison Operators
 ## Lesson 03
-- [Task 01](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-03/task01) - Variables Introduction
-- [Task 02](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-03/task02) - Undefined Variables, Naming
-- [Task 03](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-03/task03) - Numbers: Integers and Floats
-- [Task 04](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-03/task04) - Converting Numbers
-- [Task 05](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-03/task05) - Mathematical Operators
-- [Task 06](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-03/task06) - Augmented Assignment
-- [Task 07](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-03/task07) - Boolean, Equality Operator
-- [Task 08](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-03/task08) - Comparison Operators
-- [Task 09](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-03/task09) - Boolean, Equality Operator
-- [Task 10](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-03/task10) - Comparison Operators
+- [Task 01](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-03/task01) - Concatenation
+- [Task 02](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-03/task02) - String multiplication
+- [Task 03](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-03/task03) - String Indexing (Positive Index)
+- [Task 04](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-03/task04) - String Indexing (Negative Index)
+- [Task 05](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-03/task05) - Slicing strings (substrings)
+- [Task 06](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-03/task06) - 'in' keyword substring check
+- [Task 07](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-03/task07) - String 'len' function
+- [Task 08](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-03/task08) - Backslash Escape Sequence
+- [Task 09](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-03/task09) - Upper & Lower String Methods
+- [Task 10](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-03/task10) - String Formatting - % Operator
 
 ## Lesson 04
 
