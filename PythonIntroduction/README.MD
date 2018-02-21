@@ -1,6 +1,6 @@
 # Python Introduction
 
-These are exercises that came with PyCharm that I was required to complete by the end of the semester. 
+These are exercises that came with PyCharm that I was required to complete by the end of the first month of the semester. 
 - Each lesson is divided into tasks. Task descriptions are included here for quick reference.
 - Each task has an HTML file to provide an explanation for each exercise. 
 - Each task had an automated testing to check results; therefore solutions had to match the programmed answer.
@@ -38,6 +38,10 @@ These are exercises that came with PyCharm that I was required to complete by th
 - [Task 07](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-04/task7) -'in' keyword for Lists and Dictionaries
 
 ## Lesson 05
+- [Task 01](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-05/task1) - Boolean Operators
+- [Task 02](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-05/task2) - Boolean Operators - Order of Operations
+- [Task 03](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-05/task3) - Conditionals: 'if'
+- [Task 04](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-05/task4) - Conditionals: 'else'
 
 
 ## Lesson 06
