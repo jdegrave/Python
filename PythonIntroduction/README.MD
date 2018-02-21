@@ -17,7 +17,7 @@ These are xercises that came with PyCharm.
 - [Task 6](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-02/task6) - Augmented Assignment
 - [Task 7](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-02/task7) - Boolean, Equality Operator
 - [Task 8](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-02/task8) - Comparison Operators
-## Lesson 03
+## Lesson 03 - Strings Basics
 - [Task 01](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-03/task01) - Concatenation
 - [Task 02](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-03/task02) - String multiplication
 - [Task 03](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-03/task03) - String Indexing (Positive Index)
