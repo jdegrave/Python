@@ -28,9 +28,14 @@ These are exercises that came with PyCharm that I was required to complete by th
 - [Task 08](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-03/task08) - Backslash Escape Sequence
 - [Task 09](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-03/task09) - Upper & Lower String Methods
 - [Task 10](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-03/task10) - String Formatting - % Operator
-
-## Lesson 04
-
+## Lesson 04 - Data Structures Intro: Lists, Tuples, Dictionaries
+- [Task 01](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-04/task1) - Lists Intro
+- [Task 02](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-04/task2) - Lists Append, Concatenation, Mutability
+- [Task 03](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-04/task3) - Assigning Slices to Lists
+- [Task 04](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-04/task4) - Tuples Intro
+- [Task 05](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-04/task5) - Dictionary Intro
+- [Task 06](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-04/task6) - Dictionary Key Value Methods Example
+- [Task 07](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-04/task7) -'in' keyword for Lists and Dictionaries
 
 ## Lesson 05
 
