@@ -52,9 +52,12 @@ These are exercises that came with PyCharm that I was required to complete by th
 - [Task 02](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-07/task2) - Function Parameters
 - [Task 03](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-07/task3) - Function Return Statement
 - [Task 04](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-07/task4) - Function Default Parameters
-## Lesson 08
-
-
+## Lesson 08 - Classes & Objects
+- [Task 01](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-08/task1) - Objects and Classes Intro
+- [Task 02](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-08/task2) - Accessing Object Fields (Variables)
+- [Task 03](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-08/task3) - Create a new Object, set variable
+- [Task 04](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-08/task4) - Self Parameter
+- [Task 05](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-08/task5) - '__init__' Function
 ## Lesson 09
 
 
