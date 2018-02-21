@@ -58,9 +58,9 @@ These are exercises that came with PyCharm that I was required to complete by th
 - [Task 03](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-08/task3) - Create a new Object, set variable
 - [Task 04](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-08/task4) - Self Parameter
 - [Task 05](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-08/task5) - '__init__' Function
-## Lesson 09
-
-
-
-## Lesson 10
+## Lesson 09 - Modules & Importing
+- [Task 01](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-09/task1) - Modules Intro
+- [Task 02](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-09/task2) - Built-in Python Modules
+- [Task 03](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-09/task3) - Importing Modules
+## Lesson 10 - 
 
