@@ -36,18 +36,17 @@ These are exercises that came with PyCharm that I was required to complete by th
 - [Task 05](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-04/task5) - Dictionary Intro
 - [Task 06](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-04/task6) - Dictionary Key Value Methods Example
 - [Task 07](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-04/task7) -'in' keyword for Lists and Dictionaries
-
-## Lesson 05
+## Lesson 05 - Boolean Operators & Conditional Statements
 - [Task 01](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-05/task1) - Boolean Operators
 - [Task 02](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-05/task2) - Boolean Operators - Order of Operations
 - [Task 03](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-05/task3) - Conditionals: 'if'
 - [Task 04](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-05/task4) - Conditionals: 'else'
-
-
-## Lesson 06
-
-
-
+## Lesson 06 - Looping (For Loop, While Loop, Break, Continue)
+- [Task 01](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-06/task1) - For Loop
+- [Task 02](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-06/task2) - For Loop Iterating Over String
+- [Task 03](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-06/task3) - While Loop
+- [Task 04](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-06/task4) - Break Statement
+- [Task 05](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-06/task5) - Continue Statement
 ## Lesson 07
 
 
