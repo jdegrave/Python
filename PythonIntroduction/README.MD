@@ -47,9 +47,11 @@ These are exercises that came with PyCharm that I was required to complete by th
 - [Task 03](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-06/task3) - While Loop
 - [Task 04](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-06/task4) - Break Statement
 - [Task 05](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-06/task5) - Continue Statement
-## Lesson 07
-
-
+## Lesson 07 - Functions Intro
+- [Task 01](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-07/task1) - Functions Intro
+- [Task 02](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-07/task2) - Function Parameters
+- [Task 03](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-07/task3) - Function Return Statement
+- [Task 04](https://github.com/jdegrave/Python/tree/master/PythonIntroduction/lesson-07/task4) - Function Default Parameters
 ## Lesson 08
 
 
